@@ -38,4 +38,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Syed-Muhammad-Hussnain-Raza&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Syed-Muhammad-Hussnain-Raza&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
