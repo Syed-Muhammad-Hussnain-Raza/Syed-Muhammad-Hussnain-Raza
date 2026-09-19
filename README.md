@@ -1,41 +1,128 @@
-# 💫 About Me:
+# Hi, I am Syed Muhammad Hussnain Raza
 
-🔭 I'm currently working on my data structures and web development skills<br>
-👯 I'm looking to collaborate on projects related to my interests<br>
-🌱 I'm doing Bachelor in Computer Science <br>
-😄 He/Him <br>
+### Software Developer | BS Computer Science Student | Full-Stack & Backend Development
 
-## 🌐 Socials:
+I am a 7th-semester **BS Computer Science** student at **COMSATS University Islamabad, Lahore Campus**, with hands-on experience in software development through academic and industrial projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-muhammad-hussnain-raza)
+Currently, I am working on my **industrial Final Year Project at HazelSoft** as a Software Developer and Team Lead. Our team is developing **SkillPath**, an AI-based skill gap analysis platform.
 
-# 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Syed-Muhammad-Hussnain-Raza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Syed-Muhammad-Hussnain-Raza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Muhammad-Hussnain-Raza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I am interested in building practical software solutions, backend systems, full-stack applications, and exploring AI/ML through hands-on projects.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Syed-Muhammad-Hussnain-Raza&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
+## About Me
+
+* Currently working on **SkillPath**, my industrial Final Year Project at HazelSoft
+* Working as a **Software Developer and Team Lead** in a 3-member FYP team
+* Developing skills in **backend and full-stack software development**
+* Exploring **C#/.NET, React, TypeScript, Python, and FastAPI**
+* Working with **REST APIs, software architecture, Git/GitHub, and Agile/Scrum**
+* Exploring **Artificial Neural Networks and Deep Learning**
+* Interested in building scalable, maintainable, and practical software systems
+
+---
+
+## Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### Backend & APIs
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge\&logo=github\&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
+
+### Development Practices
+
+* REST API Development
+* Clean Architecture
+* Microservice Architecture
+* Agile / Scrum
+* Git & GitHub
+* CI/CD
+* Software Development
+
+---
+
+## Featured Projects
+
+### SkillPath — AI-Based Skill Gap Analyzer
+
+Industrial Final Year Project at HazelSoft.
+
+A platform focused on analyzing users' skills against current job-market requirements and providing personalized skill-gap insights and recommendations.
+
+**Focus:** Full-Stack Development · Backend Development · AI/ML · REST APIs · Software Architecture
+
+---
+
+### Multimodal Deep Learning for Malware Detection and Classification
+
+An academic deep learning project focused on malware detection and classification using multiple data modalities.
+
+**Focus:** Artificial Neural Networks · Deep Learning · Malware Detection · Python
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/syed-muhammad-hussnain-raza)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Syed-Muhammad-Hussnain-Raza)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Syed-Muhammad-Hussnain-Raza\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Syed-Muhammad-Hussnain-Raza\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Muhammad-Hussnain-Raza\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Syed-Muhammad-Hussnain-Raza\&theme=darkhub\&no-frame=false\&no-bg=true\&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+
+---
+
+### 👀 Profile Views
+
+[![](https://visitcount.itsvg.in/api?id=Syed-Muhammad-Hussnain-Raza\&label=Profile%20Views\&color=3\&icon=5\&pretty=true)](https://visitcount.itsvg.in)
