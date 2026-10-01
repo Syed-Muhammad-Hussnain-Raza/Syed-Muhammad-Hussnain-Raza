@@ -110,7 +110,7 @@ An academic deep learning project focused on malware detection and classificatio
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed-Muhammad-Hussnain-Raza&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Syed-Muhammad-Hussnain-Raza&theme=dark&hide_border=true)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Syed-Muhammad-Hussnain-Raza&theme=dark&hide_border=true&v2)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Muhammad-Hussnain-Raza&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
